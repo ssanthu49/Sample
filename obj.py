@@ -14,3 +14,4 @@ c1=computer("Santhosh",28)
 c2=computer("Manu",28)
 c1.prnt()
 c2.prnt()       
+print("This Will Also Work"
